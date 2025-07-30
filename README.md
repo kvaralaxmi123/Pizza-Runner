@@ -20,6 +20,6 @@ This project answers business questions using SQL, covering aspects like custome
 * Popular Extra: Cheese is the most frequently added topping.
 * Most Excluded: Bacon is the most excluded ingredient.
 # Recommendations
-🚴* Route Optimization: Use tracking to improve runner efficiency.
-⭐* Feedback System: Use runner ratings for performance improvement and rewards.
-📦* Combo Offers: Introduce bundles with popular extras.
+* Route Optimization: Use tracking to improve runner efficiency.
+* Feedback System: Use runner ratings for performance improvement and rewards.
+* Combo Offers: Introduce bundles with popular extras.
